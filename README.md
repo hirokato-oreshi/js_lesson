@@ -1,1 +1,1 @@
-JSの練習
+JavaScriptの練習
